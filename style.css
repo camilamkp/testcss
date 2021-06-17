@@ -1,0 +1,30 @@
+h1
+{
+    background-color: #fa1108;
+}
+#jump
+{
+   background: #2cafe3; 
+}
+.titel-2
+{
+    background-color: #2cafe3;
+}
+#links 
+{
+    background: #00ff00;
+}
+.nummer,
+#links a:hover
+{
+    color: #ff0000;
+}
+#links a:visited
+{
+    color: #d9ff50;
+}
+.nummer:hover
+{
+    color: #00008b;
+    background: goldenrod;
+}
